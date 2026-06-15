@@ -1,3 +1,9 @@
+## important links:
+
+[source repo](https://github.com/FullstackAcademy/solar-system.git)
+
+---
+
 # Solar System
 
 A **horizontal navigation bar**, or navbar for short, is a common design pattern that you'll notice at the top of many websites. Navigation links are displayed as a horizontal bar. In this guided practice, you'll explore some foundational flexbox concepts by positioning and sizing a navbar for the solar system!
